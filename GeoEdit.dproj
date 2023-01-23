@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{4b1b8ec5-2178-4b34-888e-41429f7faf1d}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>GeoEdit.exe</DCC_DependencyCheckOutputName>
+    <MainSource>GeoEdit.dpr</MainSource>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_Define>RELEASE</DCC_Define>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_Define>DEBUG</DCC_Define>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">False</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">1</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1049</VersionInfo><VersionInfo Name="CodePage">1251</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName"></VersionInfoKeys><VersionInfoKeys Name="FileDescription"></VersionInfoKeys><VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">GeoEdit.dpr</Source></Source></Delphi.Personality><ModelSupport>False</ModelSupport></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="GeoEdit.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="AboutUnit.pas">
+      <Form>AboutBox</Form>
+    </DCCReference>
+    <DCCReference Include="AddParam.pas">
+      <Form>AddParamDlg</Form>
+    </DCCReference>
+    <DCCReference Include="BlockSetUnit.pas">
+      <Form>BlockSetDlg</Form>
+    </DCCReference>
+    <DCCReference Include="CalcParamsUnit.pas">
+      <Form>CalcParamsDlg</Form>
+    </DCCReference>
+    <DCCReference Include="ChangeDateTimeUnit.pas">
+      <Form>ChangeDateTimeDlg</Form>
+    </DCCReference>
+    <DCCReference Include="CorrectionUnit.pas">
+      <Form>CorrectionDlg</Form>
+    </DCCReference>
+    <DCCReference Include="CuttingUnit.pas">
+      <Form>CuttingDlg</Form>
+    </DCCReference>
+    <DCCReference Include="DataUnit.pas">
+      <DesignClass>TDataModule</DesignClass>
+      <Form>geData</Form>
+    </DCCReference>
+    <DCCReference Include="DiagramLinesUnit.pas">
+      <Form>DiagramLinesDlg</Form>
+    </DCCReference>
+    <DCCReference Include="DiagramZoomUnit.pas">
+      <Form>DiagramZoomDlg</Form>
+    </DCCReference>
+    <DCCReference Include="ExpandTalblockUnit.pas">
+      <Form>ExpandTalblockDlg</Form>
+    </DCCReference>
+    <DCCReference Include="FillUnit.pas">
+      <Form>FillDlg</Form>
+    </DCCReference>
+    <DCCReference Include="GlideUnit.pas">
+      <Form>GlideDlg</Form>
+    </DCCReference>
+    <DCCReference Include="MainUnit.pas">
+      <Form>MainForm</Form>
+    </DCCReference>
+    <DCCReference Include="ParamsUnit.pas">
+      <Form>ParamsForm</Form>
+    </DCCReference>
+    <DCCReference Include="PlusMinusUnit.pas">
+      <Form>PlusMinusDlg</Form>
+    </DCCReference>
+    <DCCReference Include="SaveSetParamUnit.pas">
+      <Form>SaveSetParamDlg</Form>
+    </DCCReference>
+    <DCCReference Include="SelectParamUnit.pas">
+      <Form>SelectParamDlg</Form>
+    </DCCReference>
+  </ItemGroup>
+</Project>

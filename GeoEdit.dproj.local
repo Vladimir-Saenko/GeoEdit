@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012.12.25 11:41:05.757.pas,D:\Documents and Settings\Admin.MICROSOF-D1046D\Мои документы\RAD Studio\Projects\Unit1.pas=E:\Siborg\projects\GeoEdit\MainUnit.pas</Transaction>
+    <Transaction>2012.12.25 11:41:05.757.dfm,D:\Documents and Settings\Admin.MICROSOF-D1046D\Мои документы\RAD Studio\Projects\Unit1.dfm=E:\Siborg\projects\GeoEdit\MainUnit.dfm</Transaction>
+    <Transaction>2012.12.25 11:41:15.501.dproj,D:\Documents and Settings\Admin.MICROSOF-D1046D\Мои документы\RAD Studio\Projects\Project1.dproj=E:\Siborg\projects\GeoEdit\GeoEdit.dproj</Transaction>
+    <Transaction>2013.07.05 17:47:52.219.pas,E:\Siborg\projects\GeoEdit\Unit1.pas=E:\Siborg\projects\GeoEdit\DataUnit.pas</Transaction>
+    <Transaction>2013.07.05 17:47:52.219.dfm,E:\Siborg\projects\GeoEdit\Unit1.dfm=E:\Siborg\projects\GeoEdit\DataUnit.dfm</Transaction>
+    <Transaction>2013.07.05 17:51:04.486.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\ParamsUnit.pas</Transaction>
+    <Transaction>2013.07.05 17:51:04.486.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\ParamsUnit.dfm</Transaction>
+    <Transaction>2013.07.10 19:38:38.713.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\AddParam.pas</Transaction>
+    <Transaction>2013.07.10 19:38:38.713.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\AddParam.dfm</Transaction>
+    <Transaction>2013.07.11 21:45:08.994.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\DiagramZoomUnit.pas</Transaction>
+    <Transaction>2013.07.11 21:45:08.994.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\DiagramZoomUnit.dfm</Transaction>
+    <Transaction>2013.07.11 22:31:01.953.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\DiagramLinesUnit.pas</Transaction>
+    <Transaction>2013.07.11 22:31:01.953.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\DiagramLinesUnit.dfm</Transaction>
+    <Transaction>2013.07.14 01:17:40.023.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\FillUnit.pas</Transaction>
+    <Transaction>2013.07.14 01:17:40.023.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\FillUnit.dfm</Transaction>
+    <Transaction>2013.07.14 23:56:27.654.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\PlusMinusUnit.pas</Transaction>
+    <Transaction>2013.07.14 23:56:27.654.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\PlusMinusUnit.dfm</Transaction>
+    <Transaction>2013.08.06 01:38:29.700.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\SelectParamUnit.pas</Transaction>
+    <Transaction>2013.08.06 01:38:29.700.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\SelectParamUnit.dfm</Transaction>
+    <Transaction>2013.08.08 03:14:30.218.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\SaveSetParamUnit.pas</Transaction>
+    <Transaction>2013.08.08 03:14:30.218.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\SaveSetParamUnit.dfm</Transaction>
+    <Transaction>2013.08.12 05:48:20.555.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\BlockSetUnit.pas</Transaction>
+    <Transaction>2013.08.12 05:48:20.555.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\BlockSetUnit.dfm</Transaction>
+    <Transaction>2013.10.15 15:15:18.136.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\ChangeDataTime.pas</Transaction>
+    <Transaction>2013.10.15 15:15:18.136.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\ChangeDataTime.dfm</Transaction>
+    <Transaction>2013.10.15 15:16:24.502.pas,E:\Siborg\projects\GeoEdit\ChangeDataTime.pas=E:\Siborg\projects\GeoEdit\ChangeDateTimeUnit.pas</Transaction>
+    <Transaction>2013.10.15 15:16:24.502.dfm,E:\Siborg\projects\GeoEdit\ChangeDataTime.dfm=E:\Siborg\projects\GeoEdit\ChangeDateTimeUnit.dfm</Transaction>
+    <Transaction>2013.10.20 13:52:41.254.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\CuttingUnit.pas</Transaction>
+    <Transaction>2013.10.20 13:52:41.254.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\CuttingUnit.dfm</Transaction>
+    <Transaction>2013.10.27 05:15:41.946.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\CorrectionUnit.pas</Transaction>
+    <Transaction>2013.10.27 05:15:41.946.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\CorrectionUnit.dfm</Transaction>
+    <Transaction>2015.08.29 13:02:13.400.pas,E:\Siborg\projects\GeoEdit\OKCANCL2.pas=E:\Siborg\projects\GeoEdit\GlideUnit.pas</Transaction>
+    <Transaction>2015.08.29 13:02:13.400.dfm,E:\Siborg\projects\GeoEdit\OKCANCL2.dfm=E:\Siborg\projects\GeoEdit\GlideUnit.dfm</Transaction>
+    <Transaction>2018.04.17 14:01:54.184.pas,D:\Siborg\projects\GeoEdit\Unit1.pas=D:\Siborg\projects\GeoEdit\ExpandTalblockUnit.pas</Transaction>
+    <Transaction>2018.04.17 14:01:54.212.dfm,D:\Siborg\projects\GeoEdit\Unit1.dfm=D:\Siborg\projects\GeoEdit\ExpandTalblockUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
